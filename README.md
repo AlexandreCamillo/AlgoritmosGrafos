@@ -1,4 +1,4 @@
-# AlgoritmosGrafos
+# Algoritmos e Grafos
 Colaboratory com alguns algorimos conhecidos de Grafos
 
 ## Formato de entradas
