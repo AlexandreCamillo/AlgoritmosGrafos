@@ -18,3 +18,4 @@ Para inicializar um grafo como a lista de adjacências execute:
 ``` python
 grafo = Grafo('Grafo', lista_adjacencias)
 ```
+**É isto...**
